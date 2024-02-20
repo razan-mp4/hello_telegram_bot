@@ -1,7 +1,7 @@
 import telebot
 
-# Замість 'YOUR_TOKEN' вкажіть свій токен бота
-TOKEN = 'YOUR_TOKEN'
+# Токен бота
+TOKEN = '6955486188:AAFFThQtrFOmY9mvDhxLFaUMOAC25pkxrPA'
 
 bot = telebot.TeleBot(TOKEN)
 
